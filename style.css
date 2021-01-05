@@ -1,0 +1,84 @@
+ * {
+     margin: 0;
+     padding: 0;
+     font-family: 'Source Code Pro', monospace;
+ }
+ 
+ .bg-img {
+     background-image: url("images/gettyimage.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     min-height: 700px;
+     opacity: 0.80;
+ }
+
+ .first {
+     padding: 15px 10px;
+     text-align: center;
+     background-color: darkblue;
+     position: absolute;
+     top: 55%;
+     left: 35%;
+     /* transform: translate(-50%, -50%); */
+     display: inline-block;
+     width: 400px;
+     color: white;
+     word-spacing: 3px;
+     letter-spacing: 3px;
+ }
+
+ .text-1 {
+     text-align: center;
+     padding: 50px 20px;
+ }
+
+ .adjust {
+     background-image: url("images/lighter.jpeg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     min-height: 500px;
+     opacity: 0.80; 
+     position: relative;
+ }
+
+ .first-2 {
+     padding: 15px 10px;
+     text-align: center;
+     color: white;
+     position: absolute;
+     top: 230px;
+     left: 500px;
+     background-color: royalblue;
+
+ }
+
+ .jara {
+     background-color: teal;
+ }
+
+ .adjust-2 {
+     background-image: url("images/img..2.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     min-height: 500px;
+     opacity: 0.80;
+     position: relative;
+ }
+
+ .jara-2 {
+    background-color: darkblue;
+    display: inline-block;
+    width: 400px;
+    padding: 15px 10px;
+    position: relative;
+    top: 350px;
+    left: 500px;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+ }
